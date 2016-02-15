@@ -8,6 +8,8 @@ import static org.fluentlenium.core.filter.FilterConstructor.*;
 
 public class IntegrationTest extends FluentTest {
   public WebDriver webDriver = new HtmlUnitDriver();
+
+  @Override
   public WebDriver getDefaultDriver() {
       return webDriver;
   }

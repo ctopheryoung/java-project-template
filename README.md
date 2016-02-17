@@ -8,6 +8,8 @@
 
 This is a template file structure for use in Epicodus Java/Spark/Velocity projects.
 
+[Here is a helpful list of Spark routes.] (https://dl.dropboxusercontent.com/s/gle8iwtk2ed9tg6/Screenshot%202015-07-23%2011.18.30.png)
+
 ## How To Use
 
 * Make a directory for your project and initialize a git repository.

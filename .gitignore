@@ -20,10 +20,9 @@
 *.tar
 *.zip
 
-# Logs and databases #
+# Logs #
 ######################
 *.log
-*.sqlite
 
 # OS generated files #
 ######################
